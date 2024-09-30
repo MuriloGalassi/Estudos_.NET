@@ -26,9 +26,9 @@ Console.WriteLine("Conversão realizada com sucesso!");
 
 
 
-// double a = 4 / (2 + 2);
+//double a = 4 / (2 + 2);
 
-// Console.WriteLine(a);
+//Console.WriteLine(a);
 
 
 
