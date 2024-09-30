@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Projetos\\Projetos.csproj",
+      "projectUniqueName": "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Estudos_.NET\\Projetos.csproj",
       "projectName": "Projetos",
-      "projectPath": "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Projetos\\Projetos.csproj",
+      "projectPath": "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Estudos_.NET\\Projetos.csproj",
       "packagesPath": "C:\\Users\\murilo.galassi.SEESP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Projetos\\obj\\",
+      "outputPath": "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Estudos_.NET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\murilo.galassi.SEESP\\AppData\\Roaming\\NuGet\\NuGet.Config"
