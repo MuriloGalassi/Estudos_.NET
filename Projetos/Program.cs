@@ -1,11 +1,9 @@
 using Projetos.Models;
 
-Console.WriteLine("quntidade de produto em estoque: ");
-int quantidadeEmEstoque = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("quntidade de produto para venda: ");
-int quantidadeCompra = Convert.ToInt32(Console.ReadLine());
+int quantidadeEmEstoque = 10;
 
+int quantidadeCompra = 4;
 
 if (quantidadeEmEstoque >= quantidadeCompra)
 {
@@ -15,6 +13,26 @@ else
 {
     Console.WriteLine("Desculpe. nao temos a quantidade em estoque");
 }
+
+
+
+
+
+//Console.WriteLine("quntidade de produto em estoque: ");
+//int quantidadeEmEstoque = Convert.ToInt32(Console.ReadLine());
+
+//Console.WriteLine("quntidade de produto para venda: ");
+//int quantidadeCompra = Convert.ToInt32(Console.ReadLine());
+
+
+//if (quantidadeEmEstoque >= quantidadeCompra)
+//{
+    //Console.WriteLine("Venda realizada");
+//}
+//else
+//{
+    //Console.WriteLine("Desculpe. nao temos a quantidade em estoque");
+//}
 
 
 
