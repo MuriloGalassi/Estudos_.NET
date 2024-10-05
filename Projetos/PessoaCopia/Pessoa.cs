@@ -7,7 +7,7 @@ namespace Projetos.PessoaCopia
 {
     public class Pessoa
     {
-        public string Nome { get; set; }
+        public  required string Nome { get; set; }
         public int Idade { get; set; }
 
         public void Apresentar()
