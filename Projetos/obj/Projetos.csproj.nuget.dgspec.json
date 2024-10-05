@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Projetos\\Projetos.csproj": {}
+    "C:\\Estudos_.NET\\projetos\\Projetos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Projetos\\Projetos.csproj": {
+    "C:\\Estudos_.NET\\projetos\\Projetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Projetos\\Projetos.csproj",
+        "projectUniqueName": "C:\\Estudos_.NET\\projetos\\Projetos.csproj",
         "projectName": "Projetos",
-        "projectPath": "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Projetos\\Projetos.csproj",
-        "packagesPath": "C:\\Users\\murilo.galassi.SEESP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Projetos\\obj\\",
+        "projectPath": "C:\\Estudos_.NET\\projetos\\Projetos.csproj",
+        "packagesPath": "C:\\Users\\muril\\.nuget\\packages\\",
+        "outputPath": "C:\\Estudos_.NET\\projetos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\murilo.galassi.SEESP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\muril\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

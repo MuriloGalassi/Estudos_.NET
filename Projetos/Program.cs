@@ -1,15 +1,38 @@
 using Projetos.Models;
 
+Console.WriteLine("quntidade de produto em estoque: ");
+int quantidadeEmEstoque = Convert.ToInt32(Console.ReadLine());
 
-string a = "15-";
+Console.WriteLine("quntidade de produto para venda: ");
+int quantidadeCompra = Convert.ToInt32(Console.ReadLine());
+
+
+if (quantidadeEmEstoque >= quantidadeCompra)
+{
+    Console.WriteLine("Venda realizada");
+}
+else
+{
+    Console.WriteLine("Desculpe. nao temos a quantidade em estoque");
+}
+
+
+
+
+
+
+
+
+
+//string a = "15-";
 
 //int b = 0;
 
-int.TryParse(a, out int b);
+//int.TryParse(a, out int b);
 
 
-Console.WriteLine(b);
-Console.WriteLine("Conversão realizada com sucesso!");
+//Console.WriteLine(b);
+//Console.WriteLine("Conversão realizada com sucesso!");
 
 
 
