@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\muril\\.nuget\\packages\\": {}
+    "C:\\Users\\murilo.galassi.SEESP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Estudos_.NET\\Projetos\\Projetos.csproj",
+      "projectUniqueName": "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Estudos_.NET\\Projetos\\Projetos.csproj",
       "projectName": "Projetos",
-      "projectPath": "C:\\Estudos_.NET\\Projetos\\Projetos.csproj",
-      "packagesPath": "C:\\Users\\muril\\.nuget\\packages\\",
-      "outputPath": "C:\\Estudos_.NET\\Projetos\\obj\\",
+      "projectPath": "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Estudos_.NET\\Projetos\\Projetos.csproj",
+      "packagesPath": "C:\\Users\\murilo.galassi.SEESP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Estudos_.NET\\Projetos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\muril\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\murilo.galassi.SEESP\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
