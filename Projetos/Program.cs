@@ -1,18 +1,212 @@
+using System.Globalization;
+using System.Reflection.Metadata;
 using Projetos.Models;
 
 
-int quantidadeEmEstoque = 10;
+bool choveu = true;
+bool estaTarde = false;
 
-int quantidadeCompra = 4;
-
-if (quantidadeEmEstoque >= quantidadeCompra)
+if (!choveu && !estaTarde)
 {
-    Console.WriteLine("Venda realizada");
+    Console.WriteLine("Vou pedalar");
 }
 else
 {
-    Console.WriteLine("Desculpe. nao temos a quantidade em estoque");
+    Console.WriteLine("Vou pedalar outro dia");
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+//bool possuiPresenca = true;
+//double media = 6.5;
+
+//if (possuiPresenca && media >= 7)
+//{
+//    Console.WriteLine("Aprovado");
+//}
+//else
+//{
+//    Console.WriteLine("Reprovado");
+//}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//bool ehMaiorDeIdade = false;
+//bool possueAutorizacaoDoResponsavel = false;
+
+//if (ehMaiorDeIdade || possueAutorizacaoDoResponsavel)
+//{
+//    Console.WriteLine("Entrada Liberada!");
+//}
+//else
+//{
+//    Console.WriteLine("Entrada não liberada");
+//}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Console.WriteLine("Digite uma letra");
+//string? letra = Console.ReadLine();
+
+
+
+//switch (letra)
+//{
+//    case "a":
+//    case "e":
+//    case "i":
+//    case "o":
+//    case "u":
+//        Console.WriteLine("volgal");
+//        break;
+    
+//    default:
+//        Console.WriteLine("Não é uma volgal");
+//        break;
+//}
+
+
+
+
+
+
+
+
+
+
+
+//if (letra == "a" ||
+//    letra == "e" ||
+//    letra == "i" ||
+//    letra == "o" ||
+//    letra == "u")
+//{
+//    Console.WriteLine("Vogal");
+//}
+//else
+//{
+//    Console.WriteLine("Não é uma vogal");
+//}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//if (letra == "a")
+//{
+//    Console.WriteLine("Volgal");
+//}
+//else if (letra == "e")
+//{
+//    Console.WriteLine("volgal");
+//}
+//else if (letra == "i")
+//{
+//    Console.WriteLine("volgal");
+//}
+//else if (letra == "o")
+//{
+//    Console.WriteLine("volgal");
+//}
+//else if (letra == "u")
+//{
+//    Console.WriteLine("volgal");
+//}
+//else
+//{
+//    Console.WriteLine("Não e uma volgal");
+//}
+
+
+
+
+
+
+
+
+
+
+
+
+
+//int quantidadeEmEstoque = 10;
+//int quantidadeCompra = 0;
+//bool possivelVenda =  quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra;
+
+//Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+//Console.WriteLine($"Quntidade de compra: {quantidadeCompra}");
+//Console.WriteLine($"É possivel realizar a venda: {possivelVenda}");
+
+//if(quantidadeCompra == 0)
+//{
+//    Console.WriteLine("Venda inválida");
+//}
+//else if (possivelVenda)
+//{
+//    Console.WriteLine("Venda realizada");
+//}
+//else
+//{
+//    Console.WriteLine("Desculpe. nao temos a quantidade em estoque");
+//}
 
 
 
@@ -27,11 +221,11 @@ else
 
 //if (quantidadeEmEstoque >= quantidadeCompra)
 //{
-    //Console.WriteLine("Venda realizada");
+//    Console.WriteLine("Venda realizada");
 //}
 //else
 //{
-    //Console.WriteLine("Desculpe. nao temos a quantidade em estoque");
+//    Console.WriteLine("Desculpe. nao temos a quantidade em estoque");
 //}
 
 
