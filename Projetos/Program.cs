@@ -3,17 +3,64 @@ using System.Reflection.Metadata;
 using Projetos.Models;
 
 
-bool choveu = true;
-bool estaTarde = false;
+Calculadora calc = new Calculadora();
 
-if (!choveu && !estaTarde)
-{
-    Console.WriteLine("Vou pedalar");
-}
-else
-{
-    Console.WriteLine("Vou pedalar outro dia");
-}
+calc.Somar(10, 30);
+calc.Subtrair(10, 50);
+calc.Multiplicar(15, 45);
+calc.Dividir(2, 2);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//bool choveu = true;
+//bool estaTarde = false;
+
+//if (!choveu && !estaTarde)
+//{
+//    Console.WriteLine("Vou pedalar");
+//}
+//else
+//{
+//   Console.WriteLine("Vou pedalar outro dia");
+//}
 
 
 
