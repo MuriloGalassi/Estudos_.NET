@@ -3,7 +3,36 @@ using System.Reflection.Metadata;
 using Projetos.Models;
 
 
-Calculadora calc = new Calculadora();
+int numero = 5;
+
+for(int contador = 0; contador <= 10000; contador++)
+{
+    Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Calculadora calc = new Calculadora();
 
 //calc.Potencia(3, 3);
 //calc.Somar(10, 30);
@@ -13,7 +42,7 @@ Calculadora calc = new Calculadora();
 //calc.Seno(30);
 //calc.Coseno(30);
 //calc.Tangente(30);
-calc.RaizQuadrada(9);
+//calc.RaizQuadrada(9);
 
 //int numeroIncremento = 10;
 
