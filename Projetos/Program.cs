@@ -3,12 +3,131 @@ using System.Reflection.Metadata;
 using Projetos.Models;
 
 
-int numero = 5;
+string opcao;
+bool exibirMenu = true;
 
-for(int contador = 0; contador <= 10000; contador++)
+while(exibirMenu)
 {
-    Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+    Console.Clear();
+    Console.WriteLine("Digite sua opção: ");
+    Console.WriteLine("1 - Cadastrar cliente: ");
+    Console.WriteLine("2 - Buscar cliente: ");
+    Console.WriteLine("3 - Apagar cliente: ");
+    Console.WriteLine("4 - Encerrar: ");
+
+    opcao = Console.ReadLine();
+
+    switch(opcao)
+    {
+        case "1":
+            Console.WriteLine("Cadastro cliente");
+            break;
+
+        case "2":
+            Console.WriteLine("Busca de cliente");
+            break;
+
+        case "3":
+            Console.WriteLine("Apagar cliente");
+            break;
+
+        case "4":
+            Console.WriteLine("Encerrar");
+            exibirMenu = false;
+            //Environment.Exit(0);
+            break;
+
+        default:
+            Console.WriteLine("Opção inválida");
+            break;
+    }
 }
+
+Console.WriteLine("O programa se encerrou");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// int soma = 0, numero = 0;
+
+
+
+// do
+// {
+//     Console.WriteLine("Digite um numero (0 para parar)");
+//     numero = Convert.ToInt32(Console.ReadLine());
+
+//     soma += numero;
+
+// } while(numero != 0);
+
+// Console.WriteLine($"Total de soma dos numeros digitados é: {soma}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//int numero = 5;
+//int contador = 1;
+
+
+//while (contador <= 10)
+//{
+//    Console.WriteLine($"{contador}° Execução: {numero} x {contador} = {numero * contador}");
+//    contador++;
+
+//    if (contador == 6)
+//    {
+//        break;
+//    }
+//}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//int numero = 5;
+
+//for(int contador = 0; contador <= 10000; contador++)
+//{
+//    Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+//}
 
 
 
