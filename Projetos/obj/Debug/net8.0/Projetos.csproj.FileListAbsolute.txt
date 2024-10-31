@@ -42,3 +42,7 @@ C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\projetos\obj\Debug\net8
 C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\projetos\obj\Debug\net8.0\Projetos.pdb
 C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\projetos\obj\Debug\net8.0\Projetos.genruntimeconfig.cache
 C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\projetos\obj\Debug\net8.0\ref\Projetos.dll
+C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\Projetos\obj\Debug\net8.0\Projetos.csproj.AssemblyReference.cache
+C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\projetos\bin\Debug\net8.0\Projetos.Common.dll
+C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\projetos\bin\Debug\net8.0\Projetos.Common.pdb
+C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\projetos\obj\Debug\net8.0\Projetos.csproj.Up2Date

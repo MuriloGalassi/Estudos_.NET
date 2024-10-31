@@ -1,0 +1,12 @@
+C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\Projetos.Common\bin\Debug\net8.0\Projetos.Common.deps.json
+C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\Projetos.Common\bin\Debug\net8.0\Projetos.Common.dll
+C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\Projetos.Common\bin\Debug\net8.0\Projetos.Common.pdb
+C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\Projetos.Common\obj\Debug\net8.0\Projetos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\Projetos.Common\obj\Debug\net8.0\Projetos.Common.AssemblyInfoInputs.cache
+C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\Projetos.Common\obj\Debug\net8.0\Projetos.Common.AssemblyInfo.cs
+C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\Projetos.Common\obj\Debug\net8.0\Projetos.Common.csproj.CoreCompileInputs.cache
+C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\Projetos.Common\obj\Debug\net8.0\Projetos.Common.sourcelink.json
+C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\Projetos.Common\obj\Debug\net8.0\Projetos.Common.dll
+C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\Projetos.Common\obj\Debug\net8.0\refint\Projetos.Common.dll
+C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\Projetos.Common\obj\Debug\net8.0\Projetos.Common.pdb
+C:\Users\murilo.galassi.SEESP\Documents\Meu\Estudos_.NET\Projetos.Common\obj\Debug\net8.0\ref\Projetos.Common.dll
