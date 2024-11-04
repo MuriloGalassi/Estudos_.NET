@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Estudos_.NET\\Projetos.Common\\Projetos.Common.csproj": {}
+    "c:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Estudos_.NET\\Projetos.Common\\Projetos.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Estudos_.NET\\Projetos.Common\\Projetos.Common.csproj": {
+    "c:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Estudos_.NET\\Projetos.Common\\Projetos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Estudos_.NET\\Projetos.Common\\Projetos.Common.csproj",
+        "projectUniqueName": "c:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Estudos_.NET\\Projetos.Common\\Projetos.Common.csproj",
         "projectName": "Projetos.Common",
-        "projectPath": "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Estudos_.NET\\Projetos.Common\\Projetos.Common.csproj",
+        "projectPath": "c:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Estudos_.NET\\Projetos.Common\\Projetos.Common.csproj",
         "packagesPath": "C:\\Users\\murilo.galassi.SEESP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Estudos_.NET\\Projetos.Common\\obj\\",
+        "outputPath": "c:\\Users\\murilo.galassi.SEESP\\Documents\\Meu\\Estudos_.NET\\Projetos.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\murilo.galassi.SEESP\\AppData\\Roaming\\NuGet\\NuGet.Config"
